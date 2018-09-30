@@ -1,0 +1,12 @@
+build
+coverage
+Config
+lerna-debug.log
+node_modules/**
+packages/*/node_modules/**
+es/
+.DS_Store
+.vscode
+.idea
+*.log
+.npm/
